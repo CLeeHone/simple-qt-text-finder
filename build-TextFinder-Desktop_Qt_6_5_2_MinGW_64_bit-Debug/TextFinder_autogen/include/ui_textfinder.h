@@ -37,10 +37,10 @@ public:
     {
         if (TextFinder->objectName().isEmpty())
             TextFinder->setObjectName("TextFinder");
-        TextFinder->resize(848, 614);
+        TextFinder->resize(562, 271);
         horizontalLayoutWidget = new QWidget(TextFinder);
         horizontalLayoutWidget->setObjectName("horizontalLayoutWidget");
-        horizontalLayoutWidget->setGeometry(QRect(120, 120, 561, 41));
+        horizontalLayoutWidget->setGeometry(QRect(0, 0, 561, 41));
         horizontalLayout = new QHBoxLayout(horizontalLayoutWidget);
         horizontalLayout->setObjectName("horizontalLayout");
         horizontalLayout->setContentsMargins(0, 0, 0, 0);
@@ -61,7 +61,7 @@ public:
 
         verticalLayoutWidget = new QWidget(TextFinder);
         verticalLayoutWidget->setObjectName("verticalLayoutWidget");
-        verticalLayoutWidget->setGeometry(QRect(120, 160, 561, 231));
+        verticalLayoutWidget->setGeometry(QRect(0, 40, 561, 231));
         verticalLayout_3 = new QVBoxLayout(verticalLayoutWidget);
         verticalLayout_3->setObjectName("verticalLayout_3");
         verticalLayout_3->setContentsMargins(0, 0, 0, 0);
