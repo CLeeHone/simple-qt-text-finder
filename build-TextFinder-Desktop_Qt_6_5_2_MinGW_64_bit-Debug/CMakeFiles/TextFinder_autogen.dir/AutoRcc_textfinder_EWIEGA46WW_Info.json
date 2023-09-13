@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "C:/Users/Chloe/Documents/Programming/Projects/c++-projects/TextFinder/build-TextFinder-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/TextFinder_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/Chloe/Documents/Programming/Projects/c++-projects/TextFinder/build-TextFinder-Desktop_Qt_6_5_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/Chloe/Documents/Programming/Projects/c++-projects/TextFinder/build-TextFinder-Desktop_Qt_6_5_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/Chloe/Documents/Programming/Projects/c++-projects/TextFinder/TextFinder",
+	"CMAKE_SOURCE_DIR" : "C:/Users/Chloe/Documents/Programming/Projects/c++-projects/TextFinder/TextFinder",
+	"INCLUDE_DIR" : "C:/Users/Chloe/Documents/Programming/Projects/c++-projects/TextFinder/build-TextFinder-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/TextFinder_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/Chloe/Documents/Programming/Projects/c++-projects/TextFinder/TextFinder/input.txt"
+	],
+	"LOCK_FILE" : "C:/Users/Chloe/Documents/Programming/Projects/c++-projects/TextFinder/build-TextFinder-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/TextFinder_autogen.dir/AutoRcc_textfinder_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "textfinder" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_textfinder.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.5.2/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/Chloe/Documents/Programming/Projects/c++-projects/TextFinder/build-TextFinder-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/TextFinder_autogen.dir/AutoRcc_textfinder_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/Chloe/Documents/Programming/Projects/c++-projects/TextFinder/TextFinder/textfinder.qrc",
+	"VERBOSITY" : 0
+}
